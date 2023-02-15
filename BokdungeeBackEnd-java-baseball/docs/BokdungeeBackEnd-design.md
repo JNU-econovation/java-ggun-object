@@ -83,10 +83,10 @@
 
 ## CRC 카드
 
-![Case 1 사진](https://user-images.githubusercontent.com/91835827/219032816-d1fdc840-6034-4a6c-b856-72cbd5058040.png)
+![img](https://user-images.githubusercontent.com/91835827/219032816-d1fdc840-6034-4a6c-b856-72cbd5058040.png)
 
 ## 도메인 모델  
 
-![Case 2](https://user-images.githubusercontent.com/91835827/219032984-3f66229c-8161-49a3-b65f-cd5d88beff4b.png)
+![img](https://user-images.githubusercontent.com/91835827/219032984-3f66229c-8161-49a3-b65f-cd5d88beff4b.png)
 
 
